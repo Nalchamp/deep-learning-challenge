@@ -22,4 +22,4 @@
 
 # Summary
 
-OVerall I could only achieve a 73% accuracy in for the learning model. Using a model with a better correlation between input and output would increase the prediction accuracy. By altering the data via clean up and possibly with different activation functions.
+Overall I could only achieve a 72% accuracy in for the learning model. Using a model with a better correlation between input and output would increase the prediction accuracy. By altering the data via clean up and possibly with different activation functions.
